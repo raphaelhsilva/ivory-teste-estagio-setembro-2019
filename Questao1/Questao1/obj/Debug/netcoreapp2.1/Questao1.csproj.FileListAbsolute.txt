@@ -1,0 +1,22 @@
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.deps.json
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.runtimeconfig.json
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.runtimeconfig.dev.json
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.dll
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.pdb
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.csprojAssemblyReference.cache
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.dll
+C:\Users\Raphael\Desktop\Programa\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.pdb
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.deps.json
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.runtimeconfig.json
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.runtimeconfig.dev.json
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.dll
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\bin\Debug\netcoreapp2.1\Questao1.pdb
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.csprojAssemblyReference.cache
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.dll
+C:\Users\Raphael\Desktop\Programa Ivory\Questao1\Questao1\obj\Debug\netcoreapp2.1\Questao1.pdb
