@@ -1,0 +1,22 @@
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.deps.json
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.runtimeconfig.json
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.runtimeconfig.dev.json
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.dll
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.pdb
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.csprojAssemblyReference.cache
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.dll
+C:\Users\Raphael\Desktop\Programa\MatrixNames\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.pdb
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.csprojAssemblyReference.cache
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.dll
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\obj\Debug\netcoreapp2.1\MatrixNames.pdb
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.deps.json
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.runtimeconfig.json
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.runtimeconfig.dev.json
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.dll
+C:\Users\Raphael\Desktop\Programa Ivory\Questão2\MatrixNames\bin\Debug\netcoreapp2.1\MatrixNames.pdb
