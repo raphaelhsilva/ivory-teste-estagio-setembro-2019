@@ -13,3 +13,7 @@ Questão 2
 
 Programa que recebe uma entrada com o nome do usuário e coloca o nome no centro de uma matriz de 3 linhas com números crescentes no sentido horário ao redor.
 
+Questão 2 (Melhoria)
+
+O programa recebeu uma melhoria de código.
+
